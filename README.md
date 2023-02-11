@@ -1,0 +1,1 @@
+# count-number-of-items-in-freezed-image
